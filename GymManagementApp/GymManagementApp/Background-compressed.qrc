@@ -1,0 +1,6 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="newPrefix/">
+        <file>Background-compressed.jpg</file>
+    </qresource>
+</RCC>
